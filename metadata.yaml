@@ -1,0 +1,41 @@
+_repo: The-History-of-Henry-Esmond-Esq.-a-Colonel-in-the-Service-of-Her-Majesty-Queen-Anne_2511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: "The History of Henry Esmond is a historical novel by William Makepeace\
+  \ Thackeray, originally published in 1852. The book tells the story of the early\
+  \ life of Henry Esmond, a colonel in the service of Queen Anne of England. A typical\
+  \ example of Victorian historical novels, Thackeray's work of historical fiction\
+  \ tells its tale against the backdrop of late 17th- and early 18th-century England\
+  \ – specifically, major events surrounding the English Restoration — and utilises\
+  \ characters both real (but dramatised) and imagined.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2511'
+  wikidata: Q3203517
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714 -- Fiction'
+- GITenberg
+title: The History of Henry Esmond, Esq., a Colonel in the Service of Her Majesty
+  Queen Anne
+url: http://www.gutenberg.org/ebooks/2511
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Histoire_de_Henry_Esmond
+- https://en.wikipedia.org/wiki/The_History_of_Henry_Esmond
