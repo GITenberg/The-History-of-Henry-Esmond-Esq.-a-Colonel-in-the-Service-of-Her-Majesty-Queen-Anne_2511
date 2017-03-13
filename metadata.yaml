@@ -1,5 +1,8 @@
 _repo: The-History-of-Henry-Esmond-Esq.-a-Colonel-in-the-Service-of-Her-Majesty-Queen-Anne_2511
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -18,6 +21,8 @@ description: "The History of Henry Esmond is a historical novel by William Makep
   \ tells its tale against the backdrop of late 17th- and early 18th-century England\
   \ – specifically, major events surrounding the English Restoration — and utilises\
   \ characters both real (but dramatised) and imagined.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2511#The-History-of-Henry-Esmond-Esq.-a-Colonel-in-the-Service-of-Her-Majesty-Queen-Anne
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-05-18'
 gutenberg_type: Text
